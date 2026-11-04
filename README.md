@@ -4,7 +4,7 @@
 
 ### Junior Data Analyst | Computer Science Graduate
 
-**Turning data into clear, meaningful insights.**
+
 
 ![Analytics Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:12304a,100:1f6feb&height=110&section=header&text=DATA%20ANALYTICS&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=55)
 
